@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    background-color:linen;
+    background-color:rgb(238, 247, 255);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -12,4 +12,12 @@ html {
   
   main {
     text-align: center;
+  }
+
+  button {
+    background-color: rgb(171, 19, 13);
+    color: white;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 30px;
   }
