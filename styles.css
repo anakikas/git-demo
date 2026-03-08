@@ -21,3 +21,10 @@ html {
     padding: 15px;
     border-radius: 30px;
   }
+
+#datetime {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  border: 1px solid grey;
+}
